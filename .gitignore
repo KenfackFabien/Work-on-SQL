@@ -1,0 +1,9 @@
+# Fichiers de sauvegarde lourds
+*.bak
+*.dump
+
+# Variables d'environnement (mots de passe BDD)
+.env
+
+# Fichiers temporaires
+*.log
